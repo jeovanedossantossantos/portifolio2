@@ -163,9 +163,28 @@ footer{
     font-size: 16px;
 }
 
-
-
-
+#apresentacao{
+    background: #e8ecff;
+}
+#habilidades{
+    background: #fff;
+}
+#trajetoria{
+    background: #fff7e0;
+}
+#projetos{
+    background: #e8f7ee;
+}
+#secao-formulario{
+    background:#fff;
+}
+#secao-redes{
+    background: #e8ecff;
+}
+#titulo-principal{
+    color: #e63946;
+    font-size: 44px;
+}
 
 
 
