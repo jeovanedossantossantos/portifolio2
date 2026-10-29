@@ -119,18 +119,49 @@ footer{
     margin: 10px 10px 10px 0;
     padding: 12px 25px;
 }
-
 .botao-enviar{
     display:block;
     background: #e63946;
     color: #fff;
     font-size: 18px;
-    
+    margin: 20px 0 0 0;
+    padding: 14px 30px;
+
+}
+.formulario{
+    background:#e8ecff;
+    margin:20px 0;
+    padding:25px;
+}
+.campo-formulario{
+    display: block;
+    width:90%;
+    font-size: 16px;
+    color:#333;
+    background:#fff;
+    margin:8px 0 18px 0;
+    padding: 10px;
 }
 
+.rotulo-campo{
+    color: #2d3a8c;
+    font-size:17px;
+    margin: 10px 0 0 0;
+}
+.lista-campo{
+    color: #2d3a8c;
+    font-size: 17px;
+    margin:10px 0 0 0;
+}
+.lista-contato{
+    margin: 15px 0;
+    padding: 0 0 0 25px;
+}
 
-
-
+.texto-secundario{
+    color: #666;
+    font-size: 16px;
+}
 
 
 
