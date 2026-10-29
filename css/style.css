@@ -83,13 +83,11 @@ footer{
     padding: 25px 20px;
 }
 
-.rodape-texto{
-    
+.rodape-texto{   
     color:#fff;
     font-size: 16px;
     margin: 5px 15px 5px 0;
 }
-
 .rodape-link{
     display: inline-block;
     color:#ffd166;
@@ -97,3 +95,46 @@ footer{
     margin: 5px 15px 5px 0;
 
 }
+
+.frase-destaque{
+    background: #ffd166;
+    color: #333333;
+    font-size:24px;
+    margin:25px;
+    padding: 20px;
+}
+.cartao-habilidade{
+    display:inline-block;
+    width: 180px;
+    background:#e8ecff;
+    color: #2d3a8c;
+    margin: 10px 10px 10px 0;
+    padding:15px;
+}
+.botao{
+    display: inline-block;
+    background: #2d3a8c;
+    color:#fff;
+    font-size: 18px;
+    margin: 10px 10px 10px 0;
+    padding: 12px 25px;
+}
+
+.botao-enviar{
+    display:block;
+    background: #e63946;
+    color: #fff;
+    font-size: 18px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
