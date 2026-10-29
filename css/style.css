@@ -43,7 +43,6 @@ nav{
 }
 
 
-
 .menu-link{
     display: inline-block;
     font-size: 18px;
@@ -51,4 +50,50 @@ nav{
     background: #4a4a4a;
     padding: 10px 20px;
     color:#fff;
+}
+
+p{
+    font-size: 18px;
+    margin:10px 0;
+}
+
+ul{
+    margin: 10px 0;
+    padding: 0 0 0 25px;
+}
+
+li{
+    font-size: 18px;
+    margin: 8px 0;
+}
+ol{
+    margin:10px;
+    padding: 0 0 0 25px;
+}
+
+a{
+    color: #2d3a8c;
+}
+
+footer{
+    background: #1f2756;
+    color: #ffffff;
+    font-size:16px;
+    margin: 40px 0 0 0;
+    padding: 25px 20px;
+}
+
+.rodape-texto{
+    
+    color:#fff;
+    font-size: 16px;
+    margin: 5px 15px 5px 0;
+}
+
+.rodape-link{
+    display: inline-block;
+    color:#ffd166;
+    font-size:16px;
+    margin: 5px 15px 5px 0;
+
 }
